@@ -16,6 +16,7 @@ h1{
   color: rgb(0, 255, 0);
 }
 
+
 .text2{
   margin-left: 25px;
 }
@@ -24,6 +25,7 @@ h1{
   font-size: 2rem;
   color: rgb(255, 94, 0);
   font-weight: 800;
+  border: 2px solid black;
 }
 
 .area2{
